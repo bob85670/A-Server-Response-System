@@ -10,3 +10,5 @@ Unzip MyApplication.zip
 
 3. Insert Data by adding “?name=Siu%20Ming” to URL        
     Or use MyApplication app (written by Kotlin) in MainActivity.kt line 37, change that part to your URL and run it          
+
+4. Refresh       
